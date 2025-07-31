@@ -33,14 +33,14 @@ Each contract entry includes:
 ### Citation
 If you use VASCOT or the provided dataset in your work, please cite:
 
-<pre> ``` @inproceedings{balci2023accelerating,
+<pre> @inproceedings{balci2023accelerating,
   title={Accelerating smart contract vulnerability scan using transformers},
   author={Balci, Emre and Yilmaz, Gorkem and Uzunoglu, Anil and Soyak, Ece Gelal},
   booktitle={2023 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE)},
   pages={1--6},
   year={2023},
   organization={IEEE}
-} ``` </pre>
+} </pre>
 
 ### Contributions
 Contributions to the vulnerability scanner are welcome. If you find a bug or want to suggest an improvement, please open an issue on this GitHub repository.
