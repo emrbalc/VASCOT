@@ -32,6 +32,7 @@ Each contract entry includes:
 
 ### Citation
 If you use VASCOT or the provided dataset in your work, please cite:
+
 @inproceedings{balci2023accelerating,
   title={Accelerating smart contract vulnerability scan using transformers},
   author={Balci, Emre and Yilmaz, Gorkem and Uzunoglu, Anil and Soyak, Ece Gelal},
