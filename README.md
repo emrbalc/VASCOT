@@ -41,7 +41,7 @@ If you use VASCOT or the provided dataset in your work, please cite:
   organization={IEEE}
 }
 
-Contributions
+### Contributions
 Contributions to the vulnerability scanner are welcome. If you find a bug or want to suggest an improvement, please open an issue on this GitHub repository.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
