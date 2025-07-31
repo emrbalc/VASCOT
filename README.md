@@ -12,8 +12,11 @@ Smart contracts are critical components of decentralized applications (dApps), y
 
 ### Project Structure
 vascot/
+
 ├── data/ # Preprocessed datasets 
+
 ├── notebooks/ # Sample training/evaluation notebooks
+
 └── README.md
 
 ###  Dataset
