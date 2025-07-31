@@ -28,7 +28,7 @@ The repository includes three datasets:
 Each contract entry includes:
 - Contract address
 - Opcode sequence
-- One-hot encoded vulnerability label ( `non-vulnerable’, `greedy’, etc.)
+- One-hot encoded vulnerability label (non-vulnerable, greedy, etc.)
 
 ### Citation
 If you use VASCOT or the provided dataset in your work, please cite:
