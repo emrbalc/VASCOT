@@ -34,7 +34,7 @@ Each contract entry includes:
 If you use VASCOT or the provided dataset in your work, please cite:
 @inproceedings{balci2023accelerating,
   title={Accelerating smart contract vulnerability scan using transformers},
-  author={Balc{\i}, Emre and Y{\i}lmaz, G{\"o}rkem and Uzuno{\u{g}}lu, An{\i}l and Soyak, Ece Gelal},
+  author={Balci, Emre and Yilmaz, Gorkem and Uzunoglu, Anil and Soyak, Ece Gelal},
   booktitle={2023 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE)},
   pages={1--6},
   year={2023},
